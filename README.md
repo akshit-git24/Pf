@@ -97,9 +97,6 @@ DevOps & Tools
 <!-- Trophies -->
 
 <h4>🏆 Achievements</h4>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dakshit-git24%26theme%3Dflat%26no-frame%3Dtrue%26margin-w%3D15%26row%3D1%26column%3D7" alt="akshit-git24 trophies" />
-</a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=akshit-git24)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -109,7 +106,9 @@ DevOps & Tools
 
 <div style="display: flex; justify-content: center; gap: 10px;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dakshit-git24%26show_icons%3Dtrue%26theme%3Dtokyonight%26rank_icon%3Dgithub%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Akshit's Stats" />
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshit-git24&show_icons=true&theme=synthwave)
+
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dakshit-git24%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26langs_count%3D8" alt="Akshit's Top Languages" />
