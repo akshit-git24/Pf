@@ -101,7 +101,7 @@ DevOps & Tools
 <img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dakshit-git24%26theme%3Dflat%26no-frame%3Dtrue%26margin-w%3D15%26row%3D1%26column%3D7" alt="akshit-git24 trophies" />
 </a>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=akshit-git24)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
